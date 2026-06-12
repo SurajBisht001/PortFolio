@@ -1,3 +1,5 @@
+import profileImg from "./profileImg.jpeg";
+
 export default function Home() {
   return (
     <main className="page home-page">
@@ -17,8 +19,8 @@ export default function Home() {
         </div>
         <div className="home-avatar">
           <div className="avatar-circle">
-  <img src="src/Pages/profileImg.jpeg" alt="SB" />
-</div>
+            <img src={profileImg} alt="SB" />
+          </div>
         </div>
       </section>
 
