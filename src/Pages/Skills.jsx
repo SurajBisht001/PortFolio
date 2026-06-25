@@ -7,7 +7,7 @@ const skills = [
   ]},
     { category: "Projects", items: [
     { name: "Weather App", level: 100 },
-    { name: "Portfolio Website", level: 105 },
+    { name: "Portfolio Website", level: 100 },
     { name: "Task Management App", level: 65 },
     { name: "EmpDaskBoard", level: 75 },
   ]},
