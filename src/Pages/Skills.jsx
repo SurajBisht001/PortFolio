@@ -5,11 +5,11 @@ const skills = [
     { name: "JavaScript", level: 80 },
     { name: "React", level: 65 },
   ]},
-  { category: "Projects", items: [
+    { category: "Projects", items: [
     { name: "Weather App", level: 100 },
-    { name: "Portfolio Website", level: 85 },
-    { name: "Task Management App", level: 95 },
-    { name: "Expense Tracker", level: 75 },
+    { name: "Portfolio Website", level: 105 },
+    { name: "Task Management App", level: 65 },
+    { name: "EmpDaskBoard", level: 75 },
   ]},
   { category: "Tools", items: [
     { name: "Git & GitHub", level: 88 },
